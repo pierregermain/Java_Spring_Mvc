@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Class-Path: ../WEB-INF/lib/mysql-connector-java-5.1.28-bin.jar
+
